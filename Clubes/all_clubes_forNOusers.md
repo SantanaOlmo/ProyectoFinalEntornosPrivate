@@ -16,8 +16,7 @@
   
 
 # **<a id="club-de-manga"></a>Club de Manga**  
-![imagen](imagenes\2.Club_Manga\recortadaAkira.png)
-
+![imagen](imagenes\2.Club_Manga\Akira.png)
 
 [Únete](https://chat.whatsapp.com/JOM3QTtvIR7GE1xzbhzv9I)
 1. **<a id="club-de-literatura-clásica"></a>Club de Literatura Clásica**  

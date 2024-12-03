@@ -14,6 +14,6 @@ Bienvenidos al Club de Lectores, un espacio dedicado a todos los amantes de los 
 
 
 ## Sobre Nosotros <!-- hacer más pequeñas las imágenes
-[![imagen](imagenes\whatsapplogo.png)](https://wa.me/n644208608)
+[![imagen](imagenes\whatsapplogo.png)](https://wa.me/644208608)
 [![imagen](imagenes\emaillogopng.png)](mailto:alberto16166@alumnos.ilerna.com)
 [![imagen](imagenes\githublogopng.png)](https://github.com/SantanaOlmo)
