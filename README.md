@@ -10,10 +10,16 @@ Bienvenidos al Club de Lectores, un espacio dedicado a todos los amantes de los 
   
 ### [Registre un libro](Libros\book_register.md)
 
-### [Inicia sesión]() <!--añadir enlace si es posible
+¿Ya tienes un usuario?
 
+accede a tu repositorio utilizando este enlace
 
-## Sobre Nosotros <!-- hacer más pequeñas las imágenes
-[![imagen](imagenes\whatsapplogo.png)](https://wa.me/644208608)
+    //enlace a la versión 1.0 cuando salga
+
+----
+### Contáctanos
+[![imagen](imagenes\whatsapplogo.png)](https://wa.me/34644208608) 
+
 [![imagen](imagenes\emaillogopng.png)](mailto:alberto16166@alumnos.ilerna.com)
+
 [![imagen](imagenes\githublogopng.png)](https://github.com/SantanaOlmo)

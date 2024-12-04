@@ -3,8 +3,14 @@
 - [Clubes](#clubes)
 - [**Club de Ciencia Ficción y Fantasía**](#club-de-ciencia-ficción-y-fantasía)
 - [**Club de Manga**](#club-de-manga)
+    - [¡Bienvenidos al **Club de Lectura de Manga!** 🌸✨](#bienvenidos-al-club-de-lectura-de-manga-)
 - [**Club de Literatura Clásica**](#club-de-literatura-clásica)
 - [**Club de Ensayos Filosóficos**](#club-de-ensayos-filosóficos)
+- [**Club de Literatura Contemporánea**](#club-de-literatura-contemporánea)
+- [**Club de Mujeres Escritoras**](#club-de-mujeres-escritoras)
+- [**Club de Divulgación Científica**](#club-de-divulgación-científica)
+- [**Club de Lectura Infantil**](#club-de-lectura-infantil)
+- [**Club de Poesía**](#club-de-poesía)
 
 ----
 
@@ -14,9 +20,10 @@
 
 # **<a id="club-de-manga"></a>Club de Manga**  
 
-![imagen](..\imagenes\2.Club_Manga\recortadaAkira.png)
+![imagen](..\imagenes\2.Club_Manga\Akira.png)
+![imagen](\imagenes\2.Club_Manga\Akira.png)
 
-¡Bienvenidos al Club de Lectura de Manga! 🌸✨
+### ¡Bienvenidos al **Club de Lectura de Manga!** 🌸✨
 
 Este es un espacio creado para quienes disfrutan sumergirse en las fascinantes historias del manga. Nos dedicamos a leer, compartir y analizar obras que van desde los géneros más conocidos, como el shōnen, shōjo o seinen, hasta subgéneros específicos como el isekai, el yuri o el slice of life.
 
@@ -30,34 +37,20 @@ Nos aventuramos en diversos géneros, desde fantasía épica y romance hasta ter
 
 Porque el manga es más que entretenimiento: es una ventana a mundos únicos y una forma de conectar con otros apasionados. ¡Te esperamos para compartir tus mangas favoritos y descubrir otros que te sorprenderán!
 
+[únete](https://chat.whatsapp.com/JOM3QTtvIR7GE1xzbhzv9I)
 # **<a id="club-de-literatura-clásica"></a>Club de Literatura Clásica**  
-
+![imagen](..\imagenes\3.Club_clasico\destruction_of_pompeii_and_herculaneum.png)
 
 # **<a id="club-de-ensayos-filosóficos"></a>Club de Ensayos Filosóficos**  
 
 
-3. **<a id="club-de-literatura-contemporánea"></a>Club de Literatura Contemporánea**  
+# **<a id="club-de-literatura-contemporánea"></a>Club de Literatura Contemporánea**  
  
-4. **<a id="club-de-mujeres-escritoras"></a>Club de Mujeres Escritoras**  
-   6.1 Pioneras literarias  
-   6.2 Mujeres en la ciencia ficción y fantasía  
-   6.3 Poetas femeninas destacadas  
-   6.4 Literatura feminista  
+# **<a id="club-de-mujeres-escritoras"></a>Club de Mujeres Escritoras**  
 
-5. **<a id="club-de-divulgación-científica"></a>Club de Divulgación Científica**  
-   7.1 Astrofísica y cosmos  
-   7.2 Biología y evolución  
-   7.3 Psicología y neurociencia  
-   7.4 Innovaciones tecnológicas  
+# **<a id="club-de-divulgación-científica"></a>Club de Divulgación Científica**  
 
-6. **<a id="club-de-lectura-infantil"></a>Club de Lectura Infantil**  
-   8.1 Clásicos de cuentos infantiles  
-   8.2 Literatura juvenil de fantasía  
-   8.3 Libros ilustrados  
-   8.4 Aventuras para primeros lectores  
+# **<a id="club-de-lectura-infantil"></a>Club de Lectura Infantil**  
+  
 
-7. **<a id="club-de-poesía"></a>Club de Poesía**  
-   9.1 Poesía clásica universal  
-   9.2 Poetas contemporáneos  
-   9.3 Poesía experimental y visual  
-   9.4 Antologías temáticas  
+# **<a id="club-de-poesía"></a>Club de Poesía**  
