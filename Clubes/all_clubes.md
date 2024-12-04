@@ -3,7 +3,6 @@
 - [Clubes](#clubes)
 - [**Club de Ciencia Ficción y Fantasía**](#club-de-ciencia-ficción-y-fantasía)
 - [**Club de Manga**](#club-de-manga)
-    - [¡Bienvenidos al **Club de Lectura de Manga!** 🌸✨](#bienvenidos-al-club-de-lectura-de-manga-)
 - [**Club de Literatura Clásica**](#club-de-literatura-clásica)
 - [**Club de Ensayos Filosóficos**](#club-de-ensayos-filosóficos)
 - [**Club de Literatura Contemporánea**](#club-de-literatura-contemporánea)
@@ -17,13 +16,21 @@
 # **<a id="club-de-ciencia-ficción-y-fantasía"></a>Club de Ciencia Ficción y Fantasía**
 ![imagen](..\imagenes\1.Club_Ficcion\retro_sci_fi_pulp_adventure__10_by_zombardo_dhmunvr-fullview.png)
 
+**Bienvenidos al Club de Ciencia Ficción**
+
+¿Te apasiona explorar futuros alternativos, viajes extraordinarios y mundos llenos de imaginación? Únete al Club de Ciencia Ficción, un espacio para los amantes de las grandes historias que desafían los límites de lo posible.
+
+📚 En nuestras reuniones, leeremos y discutiremos obras clásicas y modernas de autores visionarios como Julio Verne, el maestro de los viajes increíbles; George Orwell, con sus inquietantes distopías; Philip K. Dick, creador de realidades alternativas que inspiran; y el incomparable arte narrativo de Moebius, entre muchos otros.
+
+✨ Aquí encontrarás un lugar para compartir ideas, debatir temas profundos y conectar con otros exploradores de la ciencia ficción. ¡Prepárate para viajes únicos a través de la imaginación!
+
+¡La aventura comienza pronto! 🚀
 
 # **<a id="club-de-manga"></a>Club de Manga**  
 
-![imagen](..\imagenes\2.Club_Manga\Akira.png)
-![imagen](\imagenes\2.Club_Manga\Akira.png)
+![imagen](..\imagenes\2.Club_Manga\goodnightpunpun.jpg)
 
-### ¡Bienvenidos al **Club de Lectura de Manga!** 🌸✨
+ ¡Bienvenidos al **Club de Lectura de Manga!** 🌸✨
 
 Este es un espacio creado para quienes disfrutan sumergirse en las fascinantes historias del manga. Nos dedicamos a leer, compartir y analizar obras que van desde los géneros más conocidos, como el shōnen, shōjo o seinen, hasta subgéneros específicos como el isekai, el yuri o el slice of life.
 
