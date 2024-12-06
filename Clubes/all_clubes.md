@@ -14,7 +14,7 @@
 ----
 
 # **<a id="club-de-ciencia-ficción-y-fantasía"></a>Club de Ciencia Ficción y Fantasía**
-![imagen](..\imagenes\1.Club_Ficcion\retro_sci_fi_pulp_adventure__10_by_zombardo_dhmunvr-fullview.png)
+![imagen](../imagenes/1.Club_Ficcion/retro_sci_fi_pulp_adventure__10_by_zombardo_dhmunvr-fullview.png)
 
 **Bienvenidos al Club de Ciencia Ficción**
 
@@ -26,11 +26,15 @@
 
 ¡La aventura comienza pronto! 🚀
 
-[ÚNETE AL CLUB DE CIENCIA FICCIÓN](https://chat.whatsapp.com/LCPSNb9qpbU6BA7hM1OGof)
+<a href="https://chat.whatsapp.com/LCPSNb9qpbU6BA7hM1OGof" target="_blank">ÚNETE AL CLUB DE CIENCIA FICCIÓN</a>
+
+
+![separador](../imagenes/separador.png)
+
 
 # **<a id="club-de-manga"></a>Club de Manga**  
 
-![imagen](..\imagenes\2.Club_Manga\goodnightpunpun.jpg)
+![imagen](../imagenes/2.Club_Manga/goodnightpunpun.jpg)
 
  ¡Bienvenidos al **Club de Lectura de Manga!** 🌸✨
 
@@ -46,10 +50,14 @@ Este es un espacio creado para quienes disfrutan sumergirse en las fascinantes h
 
 Porque el manga es más que entretenimiento: es una ventana a mundos únicos y una forma de conectar con otros apasionados. ¡Te esperamos para compartir tus mangas favoritos y descubrir otros que te sorprenderán!
 
-[ÚNETE AL CLUB DE MANGA](https://chat.whatsapp.com/JOM3QTtvIR7GE1xzbhzv9I)
+<a href="https://chat.whatsapp.com/JOM3QTtvIR7GE1xzbhzv9I" target="_blank">ÚNETE AL CLUB DE MANGA</a>
+
+
+![separador](../imagenes/separador.png)
+
 
 # **<a id="club-de-literatura-clásica"></a>Club de Literatura Clásica**  
-![imagen](..\imagenes\3.Club_clasico\destruction_of_pompeii_and_herculaneum.png)
+![imagen](../imagenes/3.Club_clasico/destruction_of_pompeii_and_herculaneum.png)
 
 **¡Bienvenidos al Club de Literatura Clásica! 📜✨**
 
@@ -63,7 +71,11 @@ Este club está dedicado a explorar las grandes obras que han marcado la histori
 
 ¡Redescubre los fundamentos de la literatura universal! 🌟
 
-[ÚNETE AL CLUB DE LETERATURA CLÁSICA](https://chat.whatsapp.com/Kf5rJgkYNpQKjws6oHuRMd)
+<a href="https://chat.whatsapp.com/Kf5rJgkYNpQKjws6oHuRMd" target="_blank">ÚNETE AL CLUB DE LITERATURA CLÁSICA</a>
+
+
+![separador](../imagenes/separador.png)
+
 
 # **<a id="club-de-ensayos-filosóficos"></a>Club de Ensayos Filosóficos**
 ![imagen](../imagenes/4.Club_Filosofia/Solon_FilosofiaCabecera.png)
@@ -81,7 +93,10 @@ Este club es el lugar ideal para quienes buscan profundizar en el pensamiento fi
 
 💡 ¿Por qué unirte? Porque la filosofía nos ayuda a comprender mejor lo complejo del mundo y nuestro lugar en él. Este espacio es perfecto para debatir y aprender con otros apasionados por el conocimiento.
 
-[ÚNETE AL CLUB DE FILOSOFÍA](https://chat.whatsapp.com/FDBlvskTFbpLKAKItF5uTF)
+<a href="https://chat.whatsapp.com/FDBlvskTFbpLKAKItF5uTF" target="_blank">ÚNETE AL CLUB DE FILOSOFÍA</a>
+
+
+![separador](../imagenes/separador.png)
 
 
 # **<a id="club-de-literatura-contemporánea"></a>Club de Literatura Contemporánea**
@@ -100,7 +115,11 @@ Un club diseñado para los amantes de la literatura actual. Aquí exploramos obr
 
 ¡Atrévete a descubrir "nuevas" voces literarias! 🎉
 
-[ÚNETE AL CLUB DE LITERATURA CONTEMPORÁNEA](https://chat.whatsapp.com/Bdyu4jE0SUf8vRiBOJ7UrH)
+<a href="https://chat.whatsapp.com/Bdyu4jE0SUf8vRiBOJ7UrH" target="_blank">ÚNETE AL CLUB DE LITERATURA CONTEMPORÁNEA</a>
+
+
+![separador](../imagenes/separador.png)
+
  
 # **<a id="club-de-mujeres-escritoras"></a>Club de Mujeres Escritoras**  
 ![imagen](../imagenes/6.Club_Mujeres_Escritoras/mujeres_escritoras.png)
@@ -116,7 +135,10 @@ Un club dedicado a celebrar el trabajo de mujeres escritoras a lo largo de la hi
 
 ¡Únete y sé parte de esta comunidad inspiradora! 🌸
 
-[ÚNETE AL CLUB DE MUJERES ESCRITORAS](https://chat.whatsapp.com/GMTMoha5Zb31fN1RvIRtNv)
+<a href="https://chat.whatsapp.com/GMTMoha5Zb31fN1RvIRtNv" target="_blank">ÚNETE AL CLUB DE MUJERES ESCRITORAS</a>
+
+
+![separador](../imagenes/separador.png)
 
 
 # **<a id="club-de-divulgación-científica"></a>Club de Divulgación Científica**  
@@ -134,7 +156,10 @@ Para los * curiosos del mundo de la ciencia* . Este club se centra en libros que
 
 💬 Comparte tus descubrimientos y aprende de otros en un ambiente colaborativo. 🌍
 
-[ÚNETE AL CLUB DE DIVULGACIÓN CIENTÍFICA](https://chat.whatsapp.com/K5W9LRyrls5DZ6qTwv91Ti)
+<a href="https://chat.whatsapp.com/K5W9LRyrls5DZ6qTwv91Ti" target="_blank">ÚNETE AL CLUB DE DIVULGACIÓN CIENTÍFICA</a>
+
+
+![separador](../imagenes/separador.png)
 
 
 # **<a id="club-de-lectura-infantil"></a>Club de Lectura Infantil**  
@@ -151,7 +176,10 @@ Un espacio para los más pequeños y los amantes de los cuentos infantiles. Idea
 
 👧👦 ¡La imaginación no tiene límites en este club!
 
-[ÚNETE AL CLUB DE LITERATURA INFANTIL](https://chat.whatsapp.com/EiVKyYBT5oIJo8QgHZ3LkG)
+<a href="https://chat.whatsapp.com/EiVKyYBT5oIJo8QgHZ3LkG" target="_blank">ÚNETE AL CLUB DE LITERATURA INFANTIL</a>
+
+
+![separador](../imagenes/separador.png)
 
 
 # **<a id="club-de-poesía"></a>Club de Poesía**  
@@ -168,4 +196,4 @@ Un rincón para los amantes de los versos. En este club, exploramos la magia de 
 
 💫 Ven a inspirarte y compartir tu pasión por la poesía.
 
-[ÚNETE AL CLUB DE POESÍA](https://chat.whatsapp.com/FMYHbahYxFa2CqOOXTcdH4)
+<a href="https://chat.whatsapp.com/FMYHbahYxFa2CqOOXTcdH4" target="_blank">ÚNETE AL CLUB DE POESÍA</a>

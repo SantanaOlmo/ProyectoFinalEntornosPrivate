@@ -12,8 +12,10 @@
 - [ ] pepa pig 
 
 
-[pinche aquí para ver su historial de cambios](https://github.com/SantanaOlmo/ProyectoFinalEntornos/commits/main/Libros/book_register.md?author=user_name)
+---
 
-o utilice el siguiente enlace sustitiyendo user_name por su usuario de GitHub
+## Historial de cambios
+Puede consultar tu historial de contribuciones:
+- [Ver historial de cambios (personalizado)](https://github.com/SantanaOlmo/ProyectoFinalEntornos/commits/main/Usuarios/mi_carpeta/mis_libros.md?author=tu_usuario)
 
-    https://github.com/SantanaOlmo/ProyectoFinalEntornos/commits/main/Libros/book_register.md?author=user_name
+**Nota:** Reemplace `tu_usuario` con su nombre de usuario de GitHub.
