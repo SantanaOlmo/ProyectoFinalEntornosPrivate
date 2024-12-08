@@ -26,8 +26,11 @@ Accede a tu repositorio utilizando este enlace
 
 ----
 ### Contáctanos
+<div align="center" >
 [![imagen](imagenes/whatsapplogo.png)](https://wa.me/34644208608) 
 
 [![imagen](imagenes/emaillogopng.png)](mailto:alberto16166@alumnos.ilerna.com)
 
 [![imagen](imagenes/githublogopng.png)](https://github.com/SantanaOlmo)
+</div>
+
