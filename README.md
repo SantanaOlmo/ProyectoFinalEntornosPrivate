@@ -26,11 +26,16 @@ Accede a tu repositorio utilizando este enlace
 
 ----
 ### Contáctanos
-<div align="center" >
-[![imagen](imagenes/whatsapplogo.png)](https://wa.me/34644208608) 
-
-[![imagen](imagenes/emaillogopng.png)](mailto:alberto16166@alumnos.ilerna.com)
-
-[![imagen](imagenes/githublogopng.png)](https://github.com/SantanaOlmo)
+<div style="display: flex; justify-content: space-evenly; align-items: center; margin: 20px;">
+    <a href="https://wa.me/34644208608">
+        <img src="imagenes/whatsapplogo.png" alt="WhatsApp" style="width: 50px; height: 50px;">
+    </a>
+    <a href="mailto:alberto16166@alumnos.ilerna.com">
+        <img src="imagenes/emaillogopng.png" alt="Email" style="width: 50px; height: 50px;">
+    </a>
+    <a href="https://github.com/SantanaOlmo">
+        <img src="imagenes/githublogopng.png" alt="GitHub" style="width: 50px; height: 50px;">
+    </a>
 </div>
+
 
