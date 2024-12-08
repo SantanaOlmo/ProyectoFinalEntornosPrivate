@@ -1,57 +1,72 @@
-# **Unirse a un Club de Lectura**
+![Acceso_Clubes](../imagenes/Cabeceras/Clubes_Cabecera02.png)
 
-¡Descubre los clubes de lectura y únete a la conversación en nuestros grupos de WhatsApp! Cada club tiene su propio enfoque y un espacio para compartir y disfrutar de la literatura.
+# **Únete a un Club de Lectura**
+
+Bienvenido a la guía rápida para unirte a nuestros clubes de lectura. Aquí encontrarás enlaces directos para unirte a los grupos de WhatsApp y comenzar a participar en las conversaciones literarias.  
+
+Cada club tiene un enfoque único. Elige el que más te interese y empieza a interactuar con otros apasionados por la lectura.
 
 ---
 
+## **📚 Lista de Clubes**
+
 ### **Club de Ciencia Ficción y Fantasía**
-Un espacio para explorar futuros alternativos, mundos imaginarios y grandes historias de ciencia ficción y fantasía.  
-[ÚNETE AL GRUPO DE WHATSAPP](https://chat.whatsapp.com/LCPSNb9qpbU6BA7hM1OGof)  
-[AMPLIAR INFORMACIÓN](all_clubes.md#club-de-ciencia-ficción-y-fantasía)
+- **Grupo de WhatsApp:** [ÚNETE AQUÍ](https://chat.whatsapp.com/LCPSNb9qpbU6BA7hM1OGof)
+- **Descripción completa:** [`all_clubes.md`](all_clubes.md#club-de-ciencia-ficción-y-fantasía)
 
 ---
 
 ### **Club de Manga**
-Un club dedicado a los amantes del manga, desde clásicos como *Akira* hasta los géneros más contemporáneos.  
-[ÚNETE AL GRUPO DE WHATSAPP](https://chat.whatsapp.com/JOM3QTtvIR7GE1xzbhzv9I)  
-[AMPLIAR INFORMACIÓN](all_clubes.md#club-de-manga)
+- **Grupo de WhatsApp:** [ÚNETE AQUÍ](https://chat.whatsapp.com/JOM3QTtvIR7GE1xzbhzv9I)
+- **Descripción completa:** [`all_clubes.md`](all_clubes.md#club-de-manga)
 
 ---
 
 ### **Club de Literatura Clásica**
-Redescubre las grandes obras que han marcado la historia, como *La Ilíada* y *Don Quijote*.  
-[ÚNETE AL GRUPO DE WHATSAPP](https://chat.whatsapp.com/Kf5rJgkYNpQKjws6oHuRMd)  
-[AMPLIAR INFORMACIÓN](all_clubes.md#club-de-literatura-clásica)
+- **Grupo de WhatsApp:** [ÚNETE AQUÍ](https://chat.whatsapp.com/Kf5rJgkYNpQKjws6oHuRMd)
+- **Descripción completa:** [`all_clubes.md`](all_clubes.md#club-de-literatura-clásica)
 
 ---
 
 ### **Club de Ensayos Filosóficos**
-Un espacio para debatir y reflexionar sobre ética, política y los grandes temas filosóficos.  
-[ÚNETE AL GRUPO DE WHATSAPP](https://chat.whatsapp.com/FDBlvskTFbpLKAKItF5uTF)  
-[AMPLIAR INFORMACIÓN](all_clubes.md#club-de-ensayos-filosóficos)
+- **Grupo de WhatsApp:** [ÚNETE AQUÍ](https://chat.whatsapp.com/FDBlvskTFbpLKAKItF5uTF)
+- **Descripción completa:** [`all_clubes.md`](all_clubes.md#club-de-ensayos-filosóficos)
 
 ---
 
 ### **Club de Literatura Contemporánea**
-Descubre las voces actuales de la literatura, desde novelas modernas hasta thrillers atrapantes.  
-[ÚNETE AL GRUPO DE WHATSAPP](https://chat.whatsapp.com/Bdyu4jE0SUf8vRiBOJ7UrH)  
-[AMPLIAR INFORMACIÓN](all_clubes.md#club-de-literatura-contemporánea)
+- **Grupo de WhatsApp:** [ÚNETE AQUÍ](https://chat.whatsapp.com/Bdyu4jE0SUf8vRiBOJ7UrH)
+- **Descripción completa:** [`all_clubes.md`](all_clubes.md#club-de-literatura-contemporánea)
 
 ---
 
 ### **Club de Mujeres Escritoras**
-Celebra y explora las grandes obras escritas por mujeres que han enriquecido la literatura global.  
-[ÚNETE AL GRUPO DE WHATSAPP](https://chat.whatsapp.com/GMTMoha5Zb31fN1RvIRtNv)  
-[AMPLIAR INFORMACIÓN](all_clubes.md#club-de-mujeres-escritoras)
+- **Grupo de WhatsApp:** [ÚNETE AQUÍ](https://chat.whatsapp.com/GMTMoha5Zb31fN1RvIRtNv)
+- **Descripción completa:** [`all_clubes.md`](all_clubes.md#club-de-mujeres-escritoras)
 
 ---
 
 ### **Club de Divulgación Científica**
-Para los curiosos de la ciencia, este club explora libros que hacen accesible el conocimiento científico.  
-[ÚNETE AL GRUPO DE WHATSAPP](https://chat.whatsapp.com/K5W9LRyrls5DZ6qTwv91Ti)  
-[AMPLIAR INFORMACIÓN](all_clubes.md#club-de-divulgación-científica)
+- **Grupo de WhatsApp:** [ÚNETE AQUÍ](https://chat.whatsapp.com/K5W9LRyrls5DZ6qTwv91Ti)
+- **Descripción completa:** [`all_clubes.md`](all_clubes.md#club-de-divulgación-científica)
 
 ---
 
 ### **Club de Lectura Infantil**
-Un lugar para fomentar la lectura en los más pequeños con cuentos
+- **Grupo de WhatsApp:** [ÚNETE AQUÍ](https://chat.whatsapp.com/EiVKyYBT5oIJo8QgHZ3LkG)
+- **Descripción completa:** [`all_clubes.md`](all_clubes.md#club-de-lectura-infantil)
+
+---
+
+### **Club de Poesía**
+- **Grupo de WhatsApp:** [ÚNETE AQUÍ](https://chat.whatsapp.com/FMYHbahYxFa2CqOOXTcdH4)
+- **Descripción completa:** [`all_clubes.md`](all_clubes.md#club-de-poesía)
+
+---
+
+## **¿Dudas?**
+Si tienes preguntas o necesitas ayuda, no dudes en contactar a los administradores desde nuestro [README principal](../README.md#contáctanos). Estamos aquí para ayudarte.
+
+---
+
+**Nota:** Esta página está diseñada para un acceso rápido. Si quieres más detalles sobre cada club, visita el archivo [`all_clubes.md`](all_clubes.md) directamente.
