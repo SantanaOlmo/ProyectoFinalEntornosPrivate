@@ -1,41 +1,45 @@
 ![imagen](imagenes/headreadme.jpg)
 
-# ¡BIENVENIDO|A AL CLUB DE LECTORES!
+# 🎉 ¡BIENVENIDO|A AL CLUB DE LECTORES PRIVADO! 📚
 
-## Información
-Bienvenidos al Club de Lectores, un espacio dedicado a todos los amantes de los libros y la literatura. Aquí nos reunimos para compartir nuestra pasión por la lectura, descubrir nuevas obras, debatir sobre nuestras lecturas favoritas y explorar géneros literarios variados. Ya seas un lector ávido o alguien que busca adentrarse en el fascinante mundo de los libros, este club es el lugar perfecto para ti. Juntos, disfrutaremos de cada historia, aprenderemos de diferentes perspectivas y fomentaremos un ambiente donde todos puedan expresarse libremente. ¡Únete y acompáñanos en este viaje literario!
+## 🎨 Un espacio exclusivo para socios
+Este repositorio privado es tu puerta de entrada a una experiencia literaria única. Como miembro registrado, puedes participar en nuestras actividades, interactuar con otros lectores apasionados y disfrutar de una comunidad dedicada al amor por la lectura.
 
+Descubre nuestros clubes temáticos, comparte tus reseñas y sumérgete en el mundo literario junto a otros socios.
 
-<div align="center">
+---
 
-<a href="Usuarios/user_register.md" style="text-decoration: none; padding: 10px 20px; background-color: white; color: #007BFF; border: 2px solid #007BFF; border-radius: 5px; font-size: 16px; text-transform: uppercase; font-family: Arial, sans-serif;"><b>¿DESEAS SER SOCIO | A?</b></a>
+## **🌟 Explora nuestros clubes literarios**
+Hemos organizado una serie de clubes según temáticas y géneros para que encuentres el que mejor se adapta a ti. Cada club cuenta con un grupo de WhatsApp donde podrás debatir, compartir opiniones y proponer nuevas lecturas.
 
-<br><br>
+📖 Visita el archivo [`all_clubes.md`](Clubes/all_clubes.md) para informarte sobre los clubes disponibles y unirte al que más te interese.
 
-<a href="Libros/book_register.md" style="text-decoration: none; padding: 10px 20px; background-color: white; color: #007BFF; border: 2px solid #007BFF; border-radius: 5px; font-size: 16px; text-transform: uppercase; font-family: Arial, sans-serif;"><b>REGRISTRA UN LIBRO</b></a>
+---
 
-<br><br>
+## **✨ Ventajas de ser socio**
+Como miembro del Club de Lectores, tienes acceso a:
 
-</div>
+- Una comunidad exclusiva de amantes de la literatura.
+- Clubes organizados por géneros literarios y temáticas.
+- Actividades grupales como lecturas conjuntas y debates literarios.
+- Grupos de WhatsApp para interactuar con otros lectores.
+- La posibilidad de proponer nuevos títulos y coordinar actividades.
 
-¿Ya tienes un usuario?
+¡Aprovecha al máximo tu membresía y haz de la lectura una experiencia compartida! 📚
 
-Accede a tu repositorio utilizando este enlace
+---
 
-    //enlace a la versión 1.0 cuando salga
+## **💬 Contáctanos**
+¿Tienes dudas, consultas o sugerencias? Estamos aquí para ayudarte.  
 
-----
-### Contáctanos
-<div style="display: flex; justify-content: space-evenly; align-items: center; margin: 20px;">
-    <a href="https://wa.me/34644208608">
-        <img src="imagenes/whatsapplogo.png" alt="WhatsApp" style="width: 50px; height: 50px;">
-    </a>
-    <a href="mailto:alberto16166@alumnos.ilerna.com">
-        <img src="imagenes/emaillogopng.png" alt="Email" style="width: 50px; height: 50px;">
-    </a>
-    <a href="https://github.com/SantanaOlmo">
-        <img src="imagenes/githublogopng.png" alt="GitHub" style="width: 50px; height: 50px;">
-    </a>
-</div>
+[![imagen](imagenes/whatsapplogo.png)](https://wa.me/34644208608)  
 
+[![imagen](imagenes/emaillogopng.png)](mailto:alberto16166@alumnos.ilerna.com)  
 
+[![imagen](imagenes/githublogopng.png)](https://github.com/SantanaOlmo)  
+
+Además, puedes resolver tus dudas directamente en el grupo de WhatsApp del club al que te hayas unido.
+
+---
+
+¡Gracias por formar parte de nuestra comunidad! Nos alegra que estés aquí y esperamos que disfrutes al máximo de esta experiencia literaria.
