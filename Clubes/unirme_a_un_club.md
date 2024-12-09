@@ -6,6 +6,9 @@ Bienvenido a la guía rápida para unirte a nuestros clubes de lectura. Aquí en
 
 Cada club tiene un enfoque único. Elige el que más te interese y empieza a interactuar con otros apasionados por la lectura.
 
+
+[volver a mi perfil](../mi_perfil.md)
+
 ---
 
 ## **📚 Lista de Clubes**
@@ -70,3 +73,5 @@ Si tienes preguntas o necesitas ayuda, no dudes en contactar a los administrador
 ---
 
 **Nota:** Esta página está diseñada para un acceso rápido. Si quieres más detalles sobre cada club, visita el archivo [`all_clubes.md`](all_clubes.md) directamente.
+
+[volver a mi perfil](../mi_perfil.md)

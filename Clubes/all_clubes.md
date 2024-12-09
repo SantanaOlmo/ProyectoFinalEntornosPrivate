@@ -12,6 +12,8 @@
 - [**Club de Lectura Infantil**](#club-de-lectura-infantil)
 - [**Club de Poesía**](#club-de-poesía)
 
+[volver a mi perfil](../mi_perfil.md)
+
 ----
 
 # **<a id="club-de-ciencia-ficción-y-fantasía"></a>Club de Ciencia Ficción y Fantasía**
@@ -198,3 +200,6 @@ Un rincón para los amantes de los versos. En este club, exploramos la magia de 
 💫 Ven a inspirarte y compartir tu pasión por la poesía.
 
 <a href="https://chat.whatsapp.com/FMYHbahYxFa2CqOOXTcdH4" target="_blank">ÚNETE AL CLUB DE POESÍA</a>
+
+----
+[volver a mi perfil](../mi_perfil.md)

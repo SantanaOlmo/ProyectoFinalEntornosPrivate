@@ -7,6 +7,8 @@ Este repositorio privado es tu puerta de entrada a una experiencia literaria ún
 
 Descubre nuestros clubes temáticos, comparte tus reseñas y sumérgete en el mundo literario junto a otros socios.
 
+Visita tu [perfil](mi_perfil.md) desde el que podrás navegar a todas las páginas y ver tu información personal
+
 ---
 
 ## **🌟 Explora nuestros clubes literarios**

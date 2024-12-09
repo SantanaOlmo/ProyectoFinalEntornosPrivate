@@ -24,5 +24,7 @@ git push origin main
 
 ----
 
-6. ¡Listo! Tu libro quedará registrado en tu espacio personal.
+6. ¡Listo! Tu libro quedará registrado en tu espacio personal. 
+```
 
+[volver a mi perfil](../mi_perfil.md)
