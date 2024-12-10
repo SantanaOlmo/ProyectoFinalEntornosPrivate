@@ -1,4 +1,4 @@
-![Cabecera del Club](../imagenes/1.Club_Ficcion/retro_sci_fi_pulp_adventure__10_by_zombardo_dhmunvr-fullview.png)
+![Cabecera del Club](../../imagenes/1.Club_Ficcion/retro_sci_fi_pulp_adventure__10_by_zombardo_dhmunvr-fullview.png)
 
 # Club de Ciencia Ficción y Fantasía
 
@@ -9,25 +9,25 @@ A continuación, encontrarás una lista de libros recomendados que serán el cen
 ### Lista de Libros:
 
 1. **Dune** - *Frank Herbert*  
-   ![Portada de Dune](../imagenes/CienciaFiccion/Dune.jpg)  
+   ![Portada de Dune](../../imagenes/Portadas_Libros/Dune.jpg)  
    Año de Publicación: 1965  
    Género: Ciencia Ficción  
    Descripción: Una obra maestra que explora temas políticos, ecológicos y religiosos en un mundo desértico.
 
 2. **Neuromante** - *William Gibson*  
-   ![Portada de Neuromante](../imagenes/CienciaFiccion/Neuromante.jpg)  
+   ![Portada de Neuromante](../../imagenes/Portadas_Libros/Neuromante.jpg)  
    Año de Publicación: 1984  
    Género: Ciberpunk  
    Descripción: El clásico del ciberpunk que marcó el inicio de una nueva era en la literatura de ciencia ficción.
 
 3. **Fahrenheit 451** - *Ray Bradbury*  
-   ![Portada de Fahrenheit 451](../imagenes/CienciaFiccion/Fahrenheit451.jpg)  
+   ![Portada de Fahrenheit 451](../../imagenes/Portadas_Libros/Fahrenheit.jpg)  
    Año de Publicación: 1953  
    Género: Distopía  
    Descripción: Una historia que cuestiona la censura y la importancia de los libros en una sociedad futurista.
 
 4. **La Guerra de los Mundos** - *H.G. Wells*  
-   ![Portada de La Guerra de los Mundos](../imagenes/CienciaFiccion/LaGuerraDeLosMundos.jpg)  
+   ![Portada de La Guerra de los Mundos](../../imagenes/Portadas_Libros/LaGuerraDeLosMundos.jpg.jpg)  
    Año de Publicación: 1898  
    Género: Ciencia Ficción  
    Descripción: Un relato visionario sobre la invasión extraterrestre.
