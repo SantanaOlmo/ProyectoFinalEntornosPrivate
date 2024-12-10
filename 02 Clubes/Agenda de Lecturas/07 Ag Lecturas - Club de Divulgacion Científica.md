@@ -1,31 +1,31 @@
-![Cabecera del Club](../imagenes/07_Club_Divulgacion_Cientifica.png)
+![Cabecera del Club](../../imagenes/7.Club_Divulgacion_Cientifica/Divultacion_CientificaCabe.png)
 
 # Club de Divulgación Científica
 
-## Próximas Lecturas Recomendadas
+## Agenda de Lecturas del Club
 
-### Lista de Libros:
+### Libros Seleccionados para Este Ciclo:
 
 1. **Una Breve Historia del Tiempo** - *Stephen Hawking*  
-   ![Portada de Una Breve Historia del Tiempo](../imagenes/DivulgacionCientifica/HistoriaDelTiempo.jpg)  
+   <img src="../../imagenes/Portadas_Libros/Hawking.jpg" alt="Portada de Una Breve Historia del Tiempo" width="200px">  
    Año de Publicación: 1988  
    Género: Ciencia  
    Descripción: Una exploración de los secretos del universo.
 
 2. **El Gen Egoísta** - *Richard Dawkins*  
-   ![Portada de El Gen Egoísta](../imagenes/DivulgacionCientifica/ElGenEgoista.jpg)  
+   <img src="../../imagenes/Portadas_Libros/elgen.jpg" alt="Portada de El Gen Egoísta" width="200px">  
    Año de Publicación: 1976  
    Género: Biología  
    Descripción: Un estudio profundo sobre la evolución y la genética.
 
 3. **Cosmos** - *Carl Sagan*  
-   ![Portada de Cosmos](../imagenes/DivulgacionCientifica/Cosmos.jpg)  
+   <img src="../../imagenes/Portadas_Libros/cosmos.jpg" alt="Portada de Cosmos" width="200px">  
    Año de Publicación: 1980  
    Género: Ciencia  
    Descripción: Una obra icónica sobre el universo y la humanidad.
 
 4. **Sapiens** - *Yuval Noah Harari*  
-   ![Portada de Sapiens](../imagenes/DivulgacionCientifica/Sapiens.jpg)  
+   <img src="../../imagenes/DivulgacionCientifica/Sapiens.jpg" alt="Portada de Sapiens" width="200px">  
    Año de Publicación: 2011  
    Género: Historia  
    Descripción: Un análisis brillante sobre nuestra especie.
