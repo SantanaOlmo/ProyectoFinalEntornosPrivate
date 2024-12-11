@@ -12,7 +12,7 @@
 ---
 
 ### Navegación
-  1. [Mis libros](Libros/mis_libros.md)
+  1. [Mis libros](03_Libros/mis_libros.md)
 
   2. [Historial de mi perfil](https://github.com/SantanaOlmo/ProyectoFinalEntornosPrivate/commits/usuario_David/Libros/mis_libros.md)
 
