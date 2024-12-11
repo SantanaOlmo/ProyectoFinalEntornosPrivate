@@ -38,5 +38,5 @@ Enlaces a los grupos de WhatsApp:
 </div>
 
 <p style="text-align: center;color:grey; margin-top: 3%"> 
-&copy David Gutiérrez y Alberto Estepa. All rigts reserved.
+&copy David Gutiérrez y Alberto Estepa. All rights reserved.
 </p>
