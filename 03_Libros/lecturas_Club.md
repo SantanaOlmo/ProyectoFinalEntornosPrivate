@@ -28,3 +28,13 @@ Lecturas que actualmente están en marcha:
 Libros que están en la agenda para ser leídos próximamente:
 
 - ** Death Note** - *Tsugumi Ohba y Takeshi Obata*
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-left: 30%;margin-right: 30%;margin-top: 50px">
+  <img src="../imagenes/whatsapplogo.png" alt="whatsapp">
+  <img src="../imagenes/emaillogopng.png" alt="email" >
+  <img src="../imagenes/githublogopng.png" alt="Github">
+</div>
+
+<p style="text-align: center;color:grey; margin-top: 3%"> 
+&copy David Gutiérrez y Alberto Estepa. All rights reserved.
+</p>
