@@ -49,6 +49,10 @@ Además de participar en los encuentros, te animamos a dejar tus reseñas sobre 
 - Escribir tu puntuación (1-5 estrellas ⭐).
 - Compartir tus comentarios personales.
 
----
 
 ¡Te esperamos para disfrutar de conversaciones enriquecedoras y compartir la magia de la lectura en comunidad!
+
+----
+<p style="text-align: center;color:grey; margin-top: 3%"> 
+&copy David Gutiérrez y Alberto Estepa. All rigts reserved.
+</p>

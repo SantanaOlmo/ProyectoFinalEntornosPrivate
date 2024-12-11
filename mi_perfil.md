@@ -35,3 +35,7 @@ Enlaces a los grupos de WhatsApp:
   <img src="imagenes/emaillogopng.png" alt="email" >
   <img src="imagenes/githublogopng.png" alt="Github">
 </div>
+
+<p style="text-align: center;color:grey; margin-top: 3%"> 
+&copy David Gutiérrez y Alberto Estepa. All rigts reserved.
+</p>
