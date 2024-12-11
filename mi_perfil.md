@@ -30,4 +30,8 @@ Enlaces a los grupos de WhatsApp:
 
 
 ----
-![piedefoto](imagenes/Cabeceras/CabeceraReadmeIn.jpg)
+<div style="display: flex; justify-content: space-between; align-items: center; margin-left: 30%;margin-right: 30%;margin-top: 50px">
+  <img src="imagenes/whatsapplogo.png" alt="whatsapp">
+  <img src="imagenes/emaillogopng.png" alt="email" >
+  <img src="imagenes/githublogopng.png" alt="Github">
+</div>
