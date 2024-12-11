@@ -43,7 +43,7 @@ Los encuentros están organizados en dos días fijos para facilitar la planifica
 
 ## ✍️ Deja tus Reseñas
 
-Además de participar en los encuentros, te animamos a dejar tus reseñas sobre los libros leídos. Cada club tiene un archivo `Reseñas.md` donde puedes:
+Además de participar en los encuentros, te animamos a dejar tus reseñas sobre los libros leídos. Cada club tiene un archivo [`Reseñas.md`](Reseñas.md) donde puedes:
 
 - Añadir el título del libro que leíste.
 - Escribir tu puntuación (1-5 estrellas ⭐).

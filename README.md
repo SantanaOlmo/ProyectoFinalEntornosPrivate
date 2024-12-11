@@ -1,20 +1,18 @@
-![imagen](imagenes/headreadme.jpg)
+![imagen](imagenes/Cabeceras/CabeceraReadmeIn.jpg)
 
-# 🎉 ¡BIENVENIDO|A AL CLUB DE LECTORES PRIVADO! 📚
-
-## 🎨 Un espacio exclusivo para socios
+## 🎨 Bienvenido|a a un espacio exclusivo para socios
 Este repositorio privado es tu puerta de entrada a una experiencia literaria única. Como miembro registrado, puedes participar en nuestras actividades, interactuar con otros lectores apasionados y disfrutar de una comunidad dedicada al amor por la lectura.
 
 Descubre nuestros clubes temáticos, comparte tus reseñas y sumérgete en el mundo literario junto a otros socios.
 
-Visita tu [perfil](mi_perfil.md) desde el que podrás navegar a todas las páginas y ver tu información personal
+Visita tu [perfil](mi_perfil.md) desde el que podrás navegar a todas las páginas y ver tu información personal.
 
 ---
 
 ## **🌟 Explora nuestros clubes literarios**
 Hemos organizado una serie de clubes según temáticas y géneros para que encuentres el que mejor se adapta a ti. Cada club cuenta con un grupo de WhatsApp donde podrás debatir, compartir opiniones y proponer nuevas lecturas.
 
-📖 Visita el archivo [`all_clubes.md`](Clubes/all_clubes.md) para informarte sobre los clubes disponibles y unirte al que más te interese.
+📖 Visita el archivo [`README.md`](Clubes/README.md) dentro de la carpeta `Clubes` para informarte sobre los clubes disponibles y unirte al que más te interese.
 
 ---
 
@@ -44,4 +42,4 @@ Además, puedes resolver tus dudas directamente en el grupo de WhatsApp del club
 
 ---
 
-¡Gracias por formar parte de nuestra comunidad! Nos alegra que estés aquí y esperamos que disfrutes al máximo de esta experiencia literaria.
+¡Gracias por formar parte de nuestra
