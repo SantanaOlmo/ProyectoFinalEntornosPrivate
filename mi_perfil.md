@@ -1,12 +1,12 @@
 ![Cabecera Mi Perfil](imagenes/Cabeceras/MiPerfil_Cabecera.jpg)
 
-# Mi Perfil
+<img src="imagenes/FotoPerfilAlberto.png" alt="Foto de Perfil" width="300" style="float: left;">
 
 ## Información Personal
-- **Nombre de Usuario:** [TuNombreDeUsuario]
-- **Nombre Completo:** [TuNombre]
+- **Santana Olmo** 
+- Alberto Estepa Gómez
 
-![Foto de Perfil](imagenes/tu_foto.png)
+
 
 ---
 
