@@ -1,12 +1,12 @@
 ![Cabecera Mi Perfil](imagenes/Cabeceras/MiPerfil_Cabecera.jpg)
 
-# Mi Perfil
 
-## Información Personal
+## NombreUsuario
+
 - **Nombre de Usuario:** [TuNombreDeUsuario]
 - **Nombre Completo:** [TuNombre]
 
-![Foto de Perfil](imagenes/tu_foto.png)
+
 
 ---
 
@@ -25,6 +25,8 @@ Enlaces a los grupos de WhatsApp:
 
 ### Información General
 - [Información general del repositorio](README.md)
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-left: 30%;margin-right: 30%;margin-top: 50px">
   <img src="imagenes/whatsapplogo.png" alt="whatsapp">
