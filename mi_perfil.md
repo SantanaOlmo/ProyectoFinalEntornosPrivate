@@ -1,12 +1,12 @@
 ![Cabecera Mi Perfil](imagenes/Cabeceras/MiPerfil_Cabecera.jpg)
 
-# Mi Perfil
 
-## Información Personal
+<img src="imagenes/Silueta_Usuario.png" alt="foto de Perfil" width="100">
+
+
+
 - **Nombre de Usuario:** [TuNombreDeUsuario]
 - **Nombre Completo:** [TuNombre]
-
-![Foto de Perfil](imagenes/tu_foto.png)
 
 ---
 
