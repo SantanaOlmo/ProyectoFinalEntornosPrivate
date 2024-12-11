@@ -12,16 +12,12 @@ Bienvenido a tu lista personal de libros. Aquí puedes llevar un registro de tus
 
 ---
 
-## 💡 Propuestas o Ideas
-### [Registra un libro Vía Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7DZdqBgSqku0dTCAFIl6VhtBezWXjMu_E0ZwRBSoZ1RZNfQ/viewform)
+[Los libros de mis clubs](lecturas_Club.md)
 
----
+ [Proponer un libro](https://docs.google.com/forms/d/e/1FAIpQLSe7DZdqBgSqku0dTCAFIl6VhtBezWXjMu_E0ZwRBSoZ1RZNfQ/viewform)
 
-## 🕒 Historial de Cambios
-Puedes consultar tu historial de contribuciones a este archivo:
+ [🕒 Historial de Cambios](https://github.com/SantanaOlmo/ProyectoFinalEntornosPrivate/commits/usuario_DavidLazaro08/Usuarios/mi_carpeta/mis_libros.md?author=DavidLazaro08)
 
-- [Ver historial de cambios](https://github.com/SantanaOlmo/ProyectoFinalEntornosPrivate/commits/usuario_DavidLazaro08/Usuarios/mi_carpeta/mis_libros.md?author=DavidLazaro08)
 
----
 
 [🔙 Volver a mi perfil](../mi_perfil.md)
