@@ -1,7 +1,9 @@
 ![Cabecera Mi Perfil](imagenes/Cabeceras/MiPerfil_Cabecera.jpg)
 
 
-## NombreUsuario
+<img src="imagenes/Silueta_Usuario.png" alt="foto de Perfil" width="100">
+
+
 
 - **Nombre de Usuario:** [TuNombreDeUsuario]
 - **Nombre Completo:** [TuNombre]
