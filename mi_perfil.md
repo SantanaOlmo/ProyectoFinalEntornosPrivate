@@ -3,7 +3,7 @@
 
 <img src="imagenes/Silueta_Usuario.png" alt="foto de Perfil" width="100">
 
-## Nombre de Usuario
+
 
 ## NombreUsuario
 - Nombre
