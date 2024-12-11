@@ -1,0 +1,28 @@
+name: Proteger las ramas de usuario
+
+on:
+  push:
+    branches:
+      - '**'  # Esto activará la acción para todas las ramas
+
+jobs:
+  check-branch:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Hacer checkout del código
+      uses: actions/checkout@v2
+
+    - name: Asegurarse de que el usuario trabaje en su rama
+      run: |
+        BRANCH_NAME=$(git symbolic-ref --short HEAD)
+        USERNAME=${GITHUB_ACTOR}  # Obtiene el nombre de usuario de GitHub desde el contexto de GitHub Actions
+
+        # Lista de administradores
+        ADMIN_USERS=("SantanaOlmo" "DavidLazaro08")
+
+        # Verifica si el usuario es administrador o si está en su rama correcta
+        if [[ ! " ${ADMIN_USERS[@]} " =~ " ${USERNAME} " ]] && [[ ! "$BRANCH_NAME" =~ ^usuario_ ]]; then
+          echo "Error: $USERNAME, debes trabajar en una rama llamada 'usuario_' seguida de tu nombre de usuario de GitHub."
+          exit 1
+        fi
