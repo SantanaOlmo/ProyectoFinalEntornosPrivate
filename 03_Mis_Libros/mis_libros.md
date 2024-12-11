@@ -64,3 +64,7 @@ Aquí podrás llevar un seguimiento de los libros que has leído, los que estás
   <img src="../imagenes/emaillogopng.png" alt="email" >
   <img src="../imagenes/githublogopng.png" alt="Github">
 </div>
+
+<p style="text-align: center;color:grey; margin-top: 3%"> 
+&copy David Gutiérrez y Alberto Estepa. All rights reserved.
+</p>
