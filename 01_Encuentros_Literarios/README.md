@@ -52,3 +52,5 @@ Además de participar en los encuentros, te animamos a dejar tus reseñas sobre 
 ---
 
 ¡Te esperamos para disfrutar de conversaciones enriquecedoras y compartir la magia de la lectura en comunidad!
+
+[volver a mi perfil](../mi_perfil.md)
