@@ -1,10 +1,12 @@
 ![Cabecera Mi Perfil](imagenes/Cabeceras/MiPerfil_Cabecera.jpg)
 
-## olga3emes
-- **Nombre de Usuario:** [TuNombreDeUsuario]
-- **Nombre Completo:** [TuNombre]
+<img src="imagenes/FotoPerfilOlga.png" alt="foto de Perfil" width="100">
 
-![Foto de Perfil](imagenes/tu_foto.png)
+## olga3emes
+- Olga M. Moreno Martín
+- olga@nosesimedejasponertuemail.com
+
+
 
 ---
 
@@ -17,12 +19,14 @@
 ---
 
 ### Mis Grupos
-Enlaces a los grupos de WhatsApp:
+
 - [Grupo de Ciencia Ficción y Fantasía](https://chat.whatsapp.com/LCPSNb9qpbU6BA7hM1OGof)
 - [Grupo de Manga](https://chat.whatsapp.com/JOM3QTtvIR7GE1xzbhzv9I)
 
 ### Información General
 - [Información general del repositorio](README.md)
+
+----
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-left: 30%;margin-right: 30%;margin-top: 50px">
   <img src="imagenes/whatsapplogo.png" alt="whatsapp">
