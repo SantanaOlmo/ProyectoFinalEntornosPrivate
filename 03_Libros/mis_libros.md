@@ -1,23 +1,26 @@
-# Mis libros 
+![Cabecera Mi Perfil](../imagenes/Cabeceras/MisLibrosCabe.jpg)
 
-- [x] El lobo Estepario
-- [x] Matar a un ruiseñor
-- [x] La broma infinita
-- [ ] Las flores del mal
-- [ ] Cuentos en verso para niños perversos
-- [ ] La peste
-- [ ] Los fantasmas de mi vida
-- [ ] Así habló Zaratustra
-- [ ] Teo va a la montaña
-- [ ] pepa pig 
-
+Bienvenido a tu lista personal de libros. Aquí puedes llevar un registro de tus lecturas, organizarlas según su estado y añadir tus próximas lecturas o propuestas.
 
 ---
 
-## Historial de cambios
-Puede consultar tu historial de contribuciones:
-- [Ver historial de cambios (personalizado)](https://github.com/SantanaOlmo/ProyectoFinalEntornos/commits/main/Usuarios/mi_carpeta/mis_libros.md?author=tu_usuario)
+## ✅ Libros Favoritos
+- [x] El lobo Estepario
+- [x] Matar a un ruiseñor
+- [x] La broma infinita
 
-**Nota:** Reemplace `tu_usuario` con su nombre de usuario de GitHub.
+---
 
-[volver a mi perfil](../mi_perfil.md)
+## 💡 Propuestas o Ideas
+### [Registra un libro Vía Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7DZdqBgSqku0dTCAFIl6VhtBezWXjMu_E0ZwRBSoZ1RZNfQ/viewform)
+
+---
+
+## 🕒 Historial de Cambios
+Puedes consultar tu historial de contribuciones a este archivo:
+
+- [Ver historial de cambios](https://github.com/SantanaOlmo/ProyectoFinalEntornosPrivate/commits/usuario_SantanaOlmo/Usuarios/mi_carpeta/mis_libros.md?author=SantanaOlmo)
+
+---
+
+[🔙 Volver a mi perfil](../mi_perfil.md)
