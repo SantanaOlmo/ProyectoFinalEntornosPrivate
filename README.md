@@ -32,14 +32,15 @@ Como miembro del Club de Lectores, tienes acceso a:
 ## **💬 Contáctanos**
 ¿Tienes dudas, consultas o sugerencias? Estamos aquí para ayudarte.  
 
-[![imagen](imagenes/whatsapplogo.png)](https://wa.me/34644208608)  
 
-[![imagen](imagenes/emaillogopng.png)](mailto:alberto16166@alumnos.ilerna.com)  
-
-[![imagen](imagenes/githublogopng.png)](https://github.com/SantanaOlmo)  
 
 Además, puedes resolver tus dudas directamente en el grupo de WhatsApp del club al que te hayas unido.
 
----
+¡Gracias por formar parte de nuestra familia
 
-¡Gracias por formar parte de nuestra
+
+<div style="display: flex; justify-content: space-between; align-items: center; margin-left: 30%;margin-right: 30%;margin-top: 50px">
+  <img src="imagenes/whatsapplogo.png" alt="whatsapp">
+  <img src="imagenes/emaillogopng.png" alt="email" >
+  <img src="imagenes/githublogopng.png" alt="Github">
+</div>
