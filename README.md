@@ -12,7 +12,7 @@ Visita tu [perfil](mi_perfil.md) desde el que podrás navegar a todas las págin
 ## **🌟 Explora nuestros clubes literarios**
 Hemos organizado una serie de clubes según temáticas y géneros para que encuentres el que mejor se adapta a ti. Cada club cuenta con un grupo de WhatsApp donde podrás debatir, compartir opiniones y proponer nuevas lecturas.
 
-📖 Visita el archivo [`README.md`](01%20Clubes/README.md) dentro de la carpeta `Clubes` para informarte sobre los clubes disponibles y unirte al que más te interese.
+📖 Visita el archivo [`README.md`](01_Clubes/README.md) dentro de la carpeta `Clubes` para informarte sobre los clubes disponibles y unirte al que más te interese.
 
 ---
 
