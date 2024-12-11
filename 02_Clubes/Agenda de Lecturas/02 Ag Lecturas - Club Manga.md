@@ -35,3 +35,11 @@ A continuación, encontrarás una lista de mangas recomendados para explorar y d
 ---
 
 ¡Explora estas historias y comparte tus opiniones con la comunidad!
+
+<a href="../mi_perfil.md" style=" color: lightgreen ;display: block;text-align: right;">volver a mi perfil</a>
+
+----
+
+<p style="text-align: center;color:grey; margin-top: 3%"> 
+&copy David Gutiérrez y Alberto Estepa. All rigts reserved.
+</p>

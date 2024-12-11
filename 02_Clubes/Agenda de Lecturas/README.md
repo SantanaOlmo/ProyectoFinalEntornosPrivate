@@ -46,3 +46,11 @@ Explora las lecturas asignadas, sumérgete en cada título, y prepárate para de
 3. **Comparte tus ideas**: Participa activamente en los debates y actividades propuestas por el club.
 
 ¡Te esperamos para compartir una experiencia literaria enriquecedora!
+
+<a href="../mi_perfil.md" style=" color: lightgreen ;display: block;text-align: right;">volver a mi perfil</a>
+
+---
+
+<p style="text-align: center;color:grey; margin-top: 3%"> 
+&copy David Gutiérrez y Alberto Estepa. All rigts reserved.
+</p>

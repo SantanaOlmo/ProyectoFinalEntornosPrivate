@@ -20,4 +20,8 @@ Puede consultar tu historial de contribuciones:
 
 **Nota:** Reemplace `tu_usuario` con su nombre de usuario de GitHub.
 
-[volver a mi perfil](../mi_perfil.md)
+<a href="../mi_perfil.md" style=" color: lightgreen ;display: block;text-align: right;">volver a mi perfil</a>
+
+<p style="text-align: center;color:grey; margin-top: 3%"> 
+&copy David Gutiérrez y Alberto Estepa. All rigts reserved.
+</p>

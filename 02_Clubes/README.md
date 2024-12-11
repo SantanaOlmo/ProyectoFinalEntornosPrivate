@@ -12,7 +12,7 @@
 - [**Club de Lectura Infantil**](#club-de-lectura-infantil)
 - [**Club de Poesía**](#club-de-poesía)
 
-[volver a mi perfil](../mi_perfil.md)
+<a href="../mi_perfil.md" style=" color: lightgreen ;display: block;text-align: right;">volver a mi perfil</a>
 
 ----
 
@@ -31,6 +31,7 @@
 
 <a href="https://chat.whatsapp.com/LCPSNb9qpbU6BA7hM1OGof" target="_blank">ÚNETE AL CLUB DE CIENCIA FICCIÓN</a>
 
+<a href="../mi_perfil.md" style=" color: lightgreen ;display: block;text-align: right;">volver a mi perfil</a>
 
 ![separador](../imagenes/separador.png)
 
@@ -55,6 +56,7 @@ Porque el manga es más que entretenimiento: es una ventana a mundos únicos y u
 
 <a href="https://chat.whatsapp.com/JOM3QTtvIR7GE1xzbhzv9I" target="_blank">ÚNETE AL CLUB DE MANGA</a>
 
+<a href="../mi_perfil.md" style=" color: lightgreen ;display: block;text-align: right;">volver a mi perfil</a>
 
 ![separador](../imagenes/separador.png)
 
@@ -76,6 +78,7 @@ Este club está dedicado a explorar las grandes obras que han marcado la histori
 
 <a href="https://chat.whatsapp.com/Kf5rJgkYNpQKjws6oHuRMd" target="_blank">ÚNETE AL CLUB DE LITERATURA CLÁSICA</a>
 
+<a href="../mi_perfil.md" style=" color: lightgreen ;display: block;text-align: right;">volver a mi perfil</a>
 
 ![separador](../imagenes/separador.png)
 
@@ -98,6 +101,7 @@ Este club es el lugar ideal para quienes buscan profundizar en el pensamiento fi
 
 <a href="https://chat.whatsapp.com/FDBlvskTFbpLKAKItF5uTF" target="_blank">ÚNETE AL CLUB DE FILOSOFÍA</a>
 
+<a href="../mi_perfil.md" style=" color: lightgreen ;display: block;text-align: right;">volver a mi perfil</a>
 
 ![separador](../imagenes/separador.png)
 
@@ -120,6 +124,7 @@ Un club diseñado para los amantes de la literatura actual. Aquí exploramos obr
 
 <a href="https://chat.whatsapp.com/Bdyu4jE0SUf8vRiBOJ7UrH" target="_blank">ÚNETE AL CLUB DE LITERATURA CONTEMPORÁNEA</a>
 
+<a href="../mi_perfil.md" style=" color: lightgreen ;display: block;text-align: right;">volver a mi perfil</a>
 
 ![separador](../imagenes/separador.png)
 
@@ -140,6 +145,7 @@ Un club dedicado a celebrar el trabajo de mujeres escritoras a lo largo de la hi
 
 <a href="https://chat.whatsapp.com/GMTMoha5Zb31fN1RvIRtNv" target="_blank">ÚNETE AL CLUB DE MUJERES ESCRITORAS</a>
 
+<a href="../mi_perfil.md" style=" color: lightgreen ;display: block;text-align: right;">volver a mi perfil</a>
 
 ![separador](../imagenes/separador.png)
 
@@ -161,6 +167,7 @@ Para los * curiosos del mundo de la ciencia* . Este club se centra en libros que
 
 <a href="https://chat.whatsapp.com/K5W9LRyrls5DZ6qTwv91Ti" target="_blank">ÚNETE AL CLUB DE DIVULGACIÓN CIENTÍFICA</a>
 
+<a href="../mi_perfil.md" style=" color: lightgreen ;display: block;text-align: right;">volver a mi perfil</a>
 
 ![separador](../imagenes/separador.png)
 
@@ -181,6 +188,7 @@ Un espacio para los más pequeños y los amantes de los cuentos infantiles. Idea
 
 <a href="https://chat.whatsapp.com/EiVKyYBT5oIJo8QgHZ3LkG" target="_blank">ÚNETE AL CLUB DE LITERATURA INFANTIL</a>
 
+<a href="../mi_perfil.md" style=" color: lightgreen ;display: block;text-align: right;">volver a mi perfil</a>
 
 ![separador](../imagenes/separador.png)
 
@@ -201,5 +209,13 @@ Un rincón para los amantes de los versos. En este club, exploramos la magia de 
 
 <a href="https://chat.whatsapp.com/FMYHbahYxFa2CqOOXTcdH4" target="_blank">ÚNETE AL CLUB DE POESÍA</a>
 
+
+
+<a href="../mi_perfil.md" style=" color: lightgreen ;display: block;text-align: right;">volver a mi perfil</a>
+
 ----
-[volver a mi perfil](../mi_perfil.md)
+
+
+<p style="text-align: center;color:grey; margin-top: 3%"> 
+&copy David Gutiérrez y Alberto Estepa. All rigts reserved.
+</p>
