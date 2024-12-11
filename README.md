@@ -1,5 +1,7 @@
 ![imagen](imagenes/Cabeceras/CabeceraReadmeIn.jpg)
 
+[ir a mi perfil](mi_perfil.md)
+
 ## 🎨 Bienvenido|a a un espacio exclusivo para socios
 Este repositorio privado es tu puerta de entrada a una experiencia literaria única. Como miembro registrado, puedes participar en nuestras actividades, interactuar con otros lectores apasionados y disfrutar de una comunidad dedicada al amor por la lectura.
 

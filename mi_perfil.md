@@ -3,23 +3,28 @@
 <img src="imagenes/FotoPerfilAlberto.png" alt="Foto de Perfil" width="100" >
 
 ## **Santana Olmo** 
+
 - Alberto Estepa Gómez
 - alberto16166@gmail.com
 
 
 ### Navegación
-  1.[Mis libros](03_Libros/mis_libros.md)
+  1. [Mis libros](03_Libros/mis_libros.md)
 
-  2.[Historial mi perfil](https://github.com/SantanaOlmo/ProyectoFinalEntornosPrivate/commits/usuario_Alberto/Mis_libros/mis_libros.md)
+  2. [Historial mi perfil](https://github.com/SantanaOlmo/ProyectoFinalEntornosPrivate/commits/usuario_SantanaOlmo)
 
-  3.[Registrar un libro via Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7DZdqBgSqku0dTCAFIl6VhtBezWXjMu_E0ZwRBSoZ1RZNfQ/viewform)
+  3. <a href="https://docs.google.com/forms/d/e/1FAIpQLSe7DZdqBgSqku0dTCAFIl6VhtBezWXjMu_E0ZwRBSoZ1RZNfQ/viewform" target="_blank">Registrar un libro</a>
   
-  4.[Información de clubes](02_Clubes/README.md)
+  4. [Información de clubes](02_Clubes/README.md)
+
+  5. [Encuentros literarios](01_Encuentros_Literarios\README.md)
+   
+
 
 ---
 
 ### Mis Grupos
-Enlaces a los grupos de WhatsApp:
+
 - [Club de Manga](https://chat.whatsapp.com/JOM3QTtvIR7GE1xzbhzv9I)
 
 ### Información General
@@ -34,5 +39,5 @@ Enlaces a los grupos de WhatsApp:
 </div>
 
 <p style="text-align: center;color:grey; margin-top: 3%"> 
-&copy David Gutiérrez y Alberto Estepa. All rigts reserved.
+&copy David Gutiérrez y Alberto Estepa. All rights reserved.
 </p>

@@ -1,25 +1,26 @@
 ![Cabecera Mi Perfil](../imagenes/Cabeceras/MisLibrosCabe.jpg)
 
-Bienvenido a tu lista personal de libros. Aquí puedes llevar un registro de tus lecturas, organizarlas según su estado y añadir tus próximas lecturas o propuestas.
+Aquí puedes llevar un registro de tus lecturas, organizarlas según su estado y añadir tus próximas lecturas o propuestas.
 
 ---
 
-## ✅ Libros Favoritos
+## ⭐ Libros Favoritos
 - [x] El lobo Estepario
 - [x] Matar a un ruiseñor
 - [x] La broma infinita
+- [ ] Los fantasmas de mi vida
 
 ---
 
-## 💡 Propuestas o Ideas
-### [Registra un libro Vía Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7DZdqBgSqku0dTCAFIl6VhtBezWXjMu_E0ZwRBSoZ1RZNfQ/viewform)
 
----
+ [Registrar un libro ](https://docs.google.com/forms/d/e/1FAIpQLSe7DZdqBgSqku0dTCAFIl6VhtBezWXjMu_E0ZwRBSoZ1RZNfQ/viewform)
 
-## 🕒 Historial de Cambios
-Puedes consultar tu historial de contribuciones a este archivo:
+[Ver historial de cambios](https://github.com/SantanaOlmo/ProyectoFinalEntornosPrivate/commits/usuario_SantanaOlmo/Usuarios/mi_carpeta/mis_libros.md?author=SantanaOlmo)
 
-- [Ver historial de cambios](https://github.com/SantanaOlmo/ProyectoFinalEntornosPrivate/commits/usuario_SantanaOlmo/Usuarios/mi_carpeta/mis_libros.md?author=SantanaOlmo)
+📒Mi Agenda
+--
+
+[Club de Manga](../02_Clubes/Agenda_de_Lecturas/02%20Ag%20Lecturas%20-%20Club%20Manga.md)
 
 ---
 
