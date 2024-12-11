@@ -5,15 +5,16 @@
 
 ## Nombre de Usuario
 
-- **Nombre de Usuario:** [TuNombreDeUsuario]
-- **Nombre Completo:** [TuNombre]
-
+## NombreUsuario
+- Nombre
+- nombre@email.com
 
 
 ---
 
 ### Navegación
 - [Mis libros](Libros/mis_libros.md)
+- [Mi historial](https://github.com/SantanaOlmo/ProyectoFinalEntornosPrivate/commits/main)
 - [Registrar un libro via Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7DZdqBgSqku0dTCAFIl6VhtBezWXjMu_E0ZwRBSoZ1RZNfQ/viewform)
 - [Paso a paso para registrar un libro de forma manual](Libros/book_register.md)
 - [Información de clubes](02_Clubes/README.md)
