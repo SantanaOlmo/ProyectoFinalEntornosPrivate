@@ -13,7 +13,7 @@
 ---
 
 ### Navegación
-- [Mis libros](Libros/mis_libros.md)
+- [Mis libros](03_Libros/mis_libros.md)
 - [Mi historial](https://github.com/SantanaOlmo/ProyectoFinalEntornosPrivate/commits/main)
 - [Registrar un libro via Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7DZdqBgSqku0dTCAFIl6VhtBezWXjMu_E0ZwRBSoZ1RZNfQ/viewform)
 - [Paso a paso para registrar un libro de forma manual](Libros/book_register.md)
