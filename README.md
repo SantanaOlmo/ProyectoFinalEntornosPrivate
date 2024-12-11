@@ -46,3 +46,6 @@ Además, puedes resolver tus dudas directamente en el grupo de WhatsApp del club
   <img src="imagenes/githublogopng.png" alt="Github">
 </div>
 
+<p style="text-align: center;color:grey; margin-top: 3%"> 
+&copy David Gutiérrez y Alberto Estepa. All rigts reserved.
+</p>
