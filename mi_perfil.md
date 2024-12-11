@@ -1,8 +1,6 @@
 ![Cabecera Mi Perfil](imagenes/Cabeceras/MiPerfil_Cabecera.jpg)
 
-# Mi Perfil
-
-## Información Personal
+## olga3emes
 - **Nombre de Usuario:** [TuNombreDeUsuario]
 - **Nombre Completo:** [TuNombre]
 
