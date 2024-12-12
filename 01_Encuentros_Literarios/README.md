@@ -1,6 +1,6 @@
 ![Cabecera Encuentros Literarios](../imagenes/Cabeceras/Encuentros_Literarios_Cabecera.jpg)
 
-
+[volver al perfil](../mi_perfil.md)
 # ¡Participa en nuestras reuniones online! 📖💻
 
 ¿Quieres debatir sobre las lecturas, compartir ideas y conectar con otros miembros? Organizamos encuentros virtuales semanales a través de Google Meet para cada club. Estas reuniones son el lugar perfecto para charlar sobre los libros que leemos juntos, intercambiar impresiones y aprender de otros lectores apasionados.
@@ -52,6 +52,8 @@ Además de participar en los encuentros, te animamos a dejar tus reseñas sobre 
 ---
 
 ¡Te esperamos para disfrutar de conversaciones enriquecedoras y compartir la magia de la lectura en comunidad!
+
+[volver al perfil](../mi_perfil.md)
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-left: 30%;margin-right: 30%;margin-top: 50px">
   <img src="../imagenes/whatsapplogo.png" alt="whatsapp">

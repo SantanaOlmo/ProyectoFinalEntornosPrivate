@@ -16,10 +16,11 @@
 
   2. [Historial de mi perfil](https://github.com/SantanaOlmo/ProyectoFinalEntornosPrivate/commits/usuario_David/Libros/mis_libros.md)
 
-  3. [Registrar un libro via Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe7DZdqBgSqku0dTCAFIl6VhtBezWXjMu_E0ZwRBSoZ1RZNfQ/viewform)
+  5. <a href="https://docs.google.com/forms/d/e/1FAIpQLSe7DZdqBgSqku0dTCAFIl6VhtBezWXjMu_E0ZwRBSoZ1RZNfQ/viewform" target="_blank">Registrar un libro</a>
 
   4. [Información de clubes](02_Clubes/README.md)
 
+  5. [Encuentros literarios](01_Encuentros_Literarios\README.md)
 ---
 
 ### Mis Grupos
