@@ -1,6 +1,9 @@
 ![Cabecera del Club](../../imagenes/3.Club_clasico/destruction_of_pompeii_and_herculaneum.png)
 
 # Club de Ensayos Filosóficos
+[ir a mi perfil](../../mi_perfil.md)
+
+[ir a mis libros](../../03_Libros/mis_libros.md)
 
 ## Agenda de Lecturas del Club
 
@@ -31,8 +34,11 @@
    Descripción: Un tratado sobre la felicidad y la virtud humana.
 
 ---
-
 ¡Comparte tus ideas y reflexiones en nuestras sesiones de debate!
+
+[ir a mi perfil](../../mi_perfil.md)
+
+[ir a mis libros](../../03_Libros/mis_libros.md)
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-left: 30%;margin-right: 30%;margin-top: 50px">
   <img src="../../imagenes/whatsapplogo.png" alt="whatsapp">

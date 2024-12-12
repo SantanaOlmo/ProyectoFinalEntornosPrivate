@@ -1,7 +1,9 @@
 ![Cabecera del Club](../../imagenes/3.Club_clasico/destruction_of_pompeii_and_herculaneum.png)
 
 # Club de Literatura Clásica
+[ir a mi perfil](../../mi_perfil.md)
 
+[ir a mis libros](../../03_Libros/mis_libros.md)
 ## Agenda de Lecturas del Club
 
 ### Libros Seleccionados para Este Ciclo:
@@ -31,6 +33,9 @@
    Descripción: Una tragedia clásica sobre el amor y el destino.
 
 ---
+[ir a mi perfil](../../mi_perfil.md)
+
+[ir a mis libros](../../03_Libros/mis_libros.md)
 
 ¡Sumérgete en estas obras atemporales y descubre su relevancia hoy en día!
 

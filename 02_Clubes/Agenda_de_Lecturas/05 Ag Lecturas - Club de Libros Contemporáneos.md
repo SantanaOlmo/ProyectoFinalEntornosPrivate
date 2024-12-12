@@ -1,6 +1,9 @@
 ![Cabecera del Club](../../imagenes/5.Club_Contemporanea/contem_cabecera.png)
 
 # Club de Literatura Contemporánea
+[ir a mi perfil](../../mi_perfil.md)
+
+[ir a mis libros](../../03_Libros/mis_libros.md)
 
 ## Agenda de Lecturas del Club
 
@@ -34,6 +37,10 @@
 ---
 
 ¡Disfruta de estas obras y comparte tus impresiones con los demás!
+
+[ir a mi perfil](../../mi_perfil.md)
+
+[ir a mis libros](../../03_Libros/mis_libros.md)
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-left: 30%;margin-right: 30%;margin-top: 50px">
   <img src="../../imagenes/whatsapplogo.png" alt="whatsapp">

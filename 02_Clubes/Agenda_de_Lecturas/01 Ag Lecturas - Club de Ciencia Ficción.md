@@ -1,7 +1,9 @@
 ![Cabecera del Club](../../imagenes/1.Club_Ficcion/retro_sci_fi_pulp_adventure__10_by_zombardo_dhmunvr-fullview.png)
 
 # Club de Ciencia Ficción y Fantasía
+[ir a mi perfil](../../mi_perfil.md)
 
+[ir a mis libros](../../03_Libros/mis_libros.md)
 ## Agenda de Lecturas del Club
 
 ### Libros Seleccionados para Este Ciclo:
@@ -35,6 +37,10 @@ A continuación, encontrarás una lista de libros recomendados que serán el cen
 ---
 
 ¡Únete al debate y comparte tus impresiones sobre estas fascinantes lecturas!
+
+[ir a mi perfil](../../mi_perfil.md)
+
+[ir a mis libros](../../03_Libros/mis_libros.md)
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-left: 30%;margin-right: 30%;margin-top: 50px">
   <img src="../../imagenes/whatsapplogo.png" alt="whatsapp">

@@ -1,7 +1,9 @@
 ![Cabecera del Club](../../imagenes/2.Club_Manga/goodnightpunpun.jpg)
 
 # Club de Manga
+[ir a mi perfil](../../mi_perfil.md)
 
+[ir a mis libros](../../03_Libros/mis_libros.md)
 ## Agenda de Lecturas del Club
 
 ### Libros Seleccionados para Este Ciclo:
@@ -33,8 +35,12 @@ A continuación, encontrarás una lista de mangas recomendados para explorar y d
    Descripción: Un thriller psicológico sobre un cuaderno que otorga el poder de matar a quien sea.
 
 ---
+[ir a mi perfil](../../mi_perfil.md)
+
+[ir a mis libros](../../03_Libros/mis_libros.md)
 
 ¡Explora estas historias y comparte tus opiniones con la comunidad!
+
 <div style="display: flex; justify-content: space-between; align-items: center; margin-left: 30%;margin-right: 30%;margin-top: 50px">
   <img src="../../imagenes/whatsapplogo.png" alt="whatsapp">
   <img src="../../imagenes/emaillogopng.png" alt="email" >

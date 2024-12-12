@@ -2,6 +2,10 @@
 
 # Club de Divulgación Científica
 
+[ir a mi perfil](../../mi_perfil.md)
+
+[ir a mis libros](../../03_Libros/mis_libros.md)
+
 ## Agenda de Lecturas del Club
 
 ### Libros Seleccionados para Este Ciclo:
@@ -33,6 +37,10 @@
 ---
 
 ¡Descubre y comparte el conocimiento en nuestras sesiones!
+
+[ir a mi perfil](../../mi_perfil.md)
+
+[ir a mis libros](../../03_Libros/mis_libros.md)
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-left: 30%;margin-right: 30%;margin-top: 50px">
   <img src="../../imagenes/whatsapplogo.png" alt="whatsapp">
