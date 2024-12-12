@@ -41,10 +41,16 @@ Además, puedes resolver tus dudas directamente en el grupo de WhatsApp del club
 ¡Gracias por formar parte de nuestra
 
 ----
-<div style="display: flex; justify-content: space-between; align-items: center; margin-left: 30%;margin-right: 30%;margin-top: 50px; margin-bottom:2%;">
+<div style="display: flex; justify-content: space-between; align-items: center; margin-left: 30%;margin-right: 30%;margin-top: 50px">
+  <a href="https://wa.me/34644208608">
   <img src="imagenes/whatsapplogo.png" alt="whatsapp">
+  </a>
+  <a href="mailto:alberto16166@alumnos.ilerna.com">
   <img src="imagenes/emaillogopng.png" alt="email" >
+  </a>
+  <a href="https://github.com/SantanaOlmo">
   <img src="imagenes/githublogopng.png" alt="Github">
+  </a>
 </div>
 
 
