@@ -10,17 +10,16 @@
 
 ### Navegación
   1. [Mis libros](03_Libros/mis_libros.md)
-
-  2. [Historial mi perfil](https://github.com/SantanaOlmo/ProyectoFinalEntornosPrivate/commits/usuario_SantanaOlmo)
+   
+  2. <a href="https://github.com/SantanaOlmo/ProyectoFinalEntornosPrivate/commits/usuario_SantanaOlmo?author=SantanaOlmo" target="_blank">Historial de mi perfil</a>
 
   3. <a href="https://docs.google.com/forms/d/e/1FAIpQLSe7DZdqBgSqku0dTCAFIl6VhtBezWXjMu_E0ZwRBSoZ1RZNfQ/viewform" target="_blank">Registrar un libro</a>
   
   4. [Información de clubes](02_Clubes/README.md)
 
   5. [Encuentros literarios](01_Encuentros_Literarios/README.md)
-
- 1. [discusiones/reseñas](https://github.com/SantanaOlmo/ProyectoFinalEntornosPrivate/discussions/3)
    
+  6. <a href="https://github.com/SantanaOlmo/ProyectoFinalEntornosPrivate/discussions/3" target="_blank">Reseñas chat</a>
 
 
 ---

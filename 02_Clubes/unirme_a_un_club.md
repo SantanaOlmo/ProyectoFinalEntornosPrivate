@@ -23,7 +23,8 @@ Cada club tiene un enfoque único. Elige el que más te interese y empieza a int
 ---
 
 ### **Club de Literatura Clásica**
-- **Grupo de WhatsApp:** [ÚNETE AQUÍ](https://chat.whatsapp.com/Kf5rJgkYNpQKjws6oHuRMd)
+- **Grupo de WhatsApp:** <a href="https://chat.whatsapp.com/Kf5rJgkYNpQKjws6oHuRMd" target="_blank">ÚNETE AQUÍ</a>
+  
 - **[Descripción](README.md#club-de-literatura-clásica)** 
 
 ---
