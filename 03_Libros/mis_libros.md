@@ -43,7 +43,7 @@
 
 
 - **Akira** - *Katsuhiro Otomo* 
-- **Neuromante** - *William Gibson*  
+- **Attack on Titan** - *otrochino*  
  
 
 ---
@@ -67,9 +67,15 @@
 [ Volver a mi perfil](../mi_perfil.md)
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-left: 30%;margin-right: 30%;margin-top: 50px">
+  <a href="https://wa.me/34644208608" target="_blank">
   <img src="../imagenes/whatsapplogo.png" alt="whatsapp">
+  </a>
+  <a href="mailto:alberto16166@alumnos.ilerna.com" target="_blank">
   <img src="../imagenes/emaillogopng.png" alt="email" >
+  </a>
+  <a href="https://github.com/SantanaOlmo" target="_blank">
   <img src="../imagenes/githublogopng.png" alt="Github">
+  </a>
 </div>
 
 <p style="text-align: center;color:grey; margin-top: 3%"> 
