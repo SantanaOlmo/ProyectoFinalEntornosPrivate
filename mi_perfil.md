@@ -17,9 +17,9 @@
   
   4. [Información de clubes](02_Clubes/README.md)
 
-  5. [Encuentros literarios](01_Encuentros_Literarios\README.md)
+  5. [Encuentros literarios](01_Encuentros_Literarios/README.md)
 
- 6. [discusiones/reseñas](https://github.com/SantanaOlmo/ProyectoFinalEntornosPrivate/discussions/3)
+ 1. [discusiones/reseñas](https://github.com/SantanaOlmo/ProyectoFinalEntornosPrivate/discussions/3)
    
 
 
